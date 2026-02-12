@@ -49,3 +49,7 @@ The analysis is based on a comprehensive dataset containing customer-level infor
 <img width="1027" height="576" alt="DataBel Churn PowerBi-Screenshot 2026-02-10 at 10 00 46 PM" src="https://github.com/user-attachments/assets/84556754-701e-449d-bf64-2af5b83825a6" />
 
 
+  ---
+
+## 👤 Author
+**Moamen Mohamed Raafat** [LinkedIn Profile](https://www.linkedin.com/in/moamen-mohamed-raafat/) | [Portfolio Website](https://moumenraafat.github.io/MoamenMohamedRaafat.github.io/)
